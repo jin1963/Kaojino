@@ -1,0 +1,31 @@
+
+body {
+  background: linear-gradient(to bottom right, #502379, #f0b83d);
+  color: white;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 2em;
+}
+.logo {
+  width: 180px;
+  margin-bottom: 20px;
+}
+.container {
+  max-width: 400px;
+  margin: auto;
+}
+input {
+  padding: 10px;
+  margin: 10px;
+  width: 80%;
+}
+button {
+  margin: 5px;
+  padding: 10px;
+  border: none;
+  border-radius: 8px;
+  background-color: white;
+  color: #333;
+  font-weight: bold;
+}
